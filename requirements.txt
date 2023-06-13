@@ -1,0 +1,5 @@
+ecdsa==0.18.0
+Flask==2.3.2
+gevent==22.10.2
+requests==2.31.0
+jsonschema==4.17.3
